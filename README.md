@@ -1,7 +1,8 @@
 <h2>Tic-Tac-Toe Game</h2>
 A Front end coded Tic-Tac-Toe game hosted locally
 
-<h5>Local Hosting</h5>
+<h4>Local Hosting</h4>
+
 ```
 git clone https://github.com/Foreverdreaming/tictactoe-frontend.git
 ```

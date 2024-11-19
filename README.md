@@ -16,3 +16,6 @@ Then run the following:</br>
 ```
 npm start
 ```
+
+You will be redirected to your local browser can start playing. </br>
+Alternatively, you may access it through [http://localhost:3000/]</br>
